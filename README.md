@@ -41,44 +41,6 @@ I have a wide range of interests that keep me motivated and constantly learning:
 
 ## **Projects and Repositories**  
 My repositories showcase my journey as a developer. Each project represents a new concept I've learned or implemented, reflecting my growth in the field.
-
----
-
-## **Let's Connect!**  
-I'm always eager to collaborate and connect. Reach out to me here on GitHub or via email: irizwanms@gmail.com
-
----
-
-## **GitHub Stats**  
-Check out my GitHub stats below:  
-![Rizwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizwanahmed2022&show_icons=true&theme=radical)  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=rizwanahmed2022.visitor-badge)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-To visually present your repositories, you can use sections with icons, badges, or custom formatting to make them more engaging. Here's an example:
-
----
-
-## **Featured Repositories**  
-
 ### 🎓 **[Student Records Management System](https://github.com/rizwanahmed2022/student-records-management-system)**  
 A practice project in Next.js for managing student data using JavaScript objects.  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
@@ -106,5 +68,17 @@ A blogging platform using Blazor and C# for seamless user experience and article
 
 ---
 
-This approach uses headings, icons, and badges to make your repositories visually appealing and easy to browse. Feel free to copy this format and adapt it to your own style! 🚀 Let me know if you'd like me to help further refine this.
+## **Let's Connect!**  
+I'm always eager to collaborate and connect. Reach out to me here on GitHub or via email: irizwanms@gmail.com
+
+---
+
+## **GitHub Stats**  
+Check out my GitHub stats below:  
+![Rizwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizwanahmed2022&show_icons=true&theme=radical)  
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=rizwanahmed2022.visitor-badge)
+
+
+
+
 
