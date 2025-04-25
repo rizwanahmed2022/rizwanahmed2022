@@ -36,6 +36,5 @@ I'm always eager to collaborate and connect. Reach out to me here on GitHub or v
 ![Stats](https://github-readme-stats.vercel.app/api?username=rizwanahmed2022&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanahmed2022&layout=compact&theme=radical)  
 ![Visitors](https://komarev.com/ghpvc/?username=rizwanahmed2022&color=red)  
-![Jokes](https://readme-jokes.vercel.app/api?theme=radical)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizwanmshah1) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rizwanmshah1) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923334422295)
