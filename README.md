@@ -37,3 +37,6 @@ I'm always eager to collaborate and connect. Reach out to me here on GitHub or v
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanahmed2022&layout=compact&theme=radical)  
 ![Visitors](https://komarev.com/ghpvc/?username=rizwanahmed2022&color=red)  
 ![Jokes](https://readme-jokes.vercel.app/api?theme=radical)  
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
