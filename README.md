@@ -35,8 +35,7 @@ I'm always eager to collaborate and connect. Reach out to me here on GitHub or v
 ## **GitHub Stats**  
 Check out my GitHub stats below:  
 ![Rizwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizwanahmed2022&show_icons=true&theme=radical)  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=rizwanahmed2022.visitor-badge)
-
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=rizwanahmed2022.rizwanahmed2022)
 
 
 
