@@ -35,6 +35,5 @@ I'm always eager to collaborate and connect. Reach out to me here on GitHub or v
 ## 📊 GitHub Stats  
 ![Stats](https://github-readme-stats.vercel.app/api?username=rizwanahmed2022&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanahmed2022&layout=compact&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=rizwanahmed2022&theme=onedark)  
 ![Visitors](https://komarev.com/ghpvc/?username=rizwanahmed2022&color=red)  
 ![Jokes](https://readme-jokes.vercel.app/api?theme=radical)  
