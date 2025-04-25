@@ -16,14 +16,10 @@ Here are the tools and technologies I work with:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
 
 ### **Frameworks**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
-![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  ![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)  
 
 ### **Styling Libraries**  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-![Flowbite](https://img.shields.io/badge/Flowbite-38B2AC?style=flat&logo=flowbite&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  ![Flowbite](https://img.shields.io/badge/Flowbite-38B2AC?style=flat&logo=flowbite&logoColor=white)  
 
 ---
 
@@ -34,35 +30,6 @@ I have a wide range of interests that keep me motivated and constantly learning:
 - **Urdu poetry and literature**: Rekhta is one of my favorite platforms for poetry and literature.  
 - **Stocks and trading**: Exploring the financial world is a recent fascination.  
 - **Educational content**: Channels like 3Blue1Brown, Veritasium, and MIT OpenCourseWare are incredibly inspiring and informative.
-
----
-
-## **Projects and Repositories**  
-My repositories showcase my journey as a developer. Each project represents a new concept I've learned or implemented, reflecting my growth in the field.
-### 🎓 **[Student Records Management System](https://github.com/rizwanahmed2022/student-records-management-system)**  
-A practice project in Next.js for managing student data using JavaScript objects.  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
-
-### 💻 **[Portfolio Website](https://github.com/rizwanahmed2022/portfolio-website)**  
-A personal portfolio built with React.js and styled using Tailwind CSS to showcase my skills and projects.  
-![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
----
-
-### ➗ **[Calculator App](https://github.com/rizwanahmed2022/calculator-app)**  
-A simple, functional calculator built using C++ for basic mathematical operations.  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
----
-
-### ✍ **[Blog App](https://github.com/rizwanahmed2022/blog-app)**  
-A blogging platform using Blazor and C# for seamless user experience and article management.  
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ---
 
