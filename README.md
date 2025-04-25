@@ -35,8 +35,15 @@ I'm always eager to collaborate and connect. Reach out to me here on GitHub or v
 ## **GitHub Stats**  
 Check out my GitHub stats below:  
 ![Rizwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizwanahmed2022&show_icons=true&theme=radical)  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=rizwanahmed2022.rizwanahmed2022)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanahmed2022&layout=compact&theme=radical)
+![Visitors](https://komarev.com/ghpvc/?username=rizwanahmed2022&label=Profile+Views&color=red&style=flat)
+![GitHub Streak](https://streak-stats.demolab.com?user=rizwanahmed2022&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=rizwanahmed2022&theme=onedark)
+![Jokes](https://readme-jokes.vercel.app/api?theme=radical)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizwanahmed2022&theme=github)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=rizwanahmed2022&theme=radical)
 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
-
+![Snake Game](https://github.com/rizwanahmed2022/rizwanahmed2022/blob/output/github-contribution-grid-snake.svg)
