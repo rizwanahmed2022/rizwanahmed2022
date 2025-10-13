@@ -1,9 +1,6 @@
-# 👋 Welcome to My GitHub Profile
-
----
+# 👋 Welcome
 
 I’m **Rizwan Ahmed** — a passionate **Front-End Developer** and **BSIT student**, driven by curiosity and creativity in the world of tech.
-
 I specialize in building modern, responsive, and high-performance web applications using:
 
 **React.js | Next.js | JavaScript | Tailwind CSS | Bootstrap | Node.js | Cybersecurity**
@@ -12,35 +9,19 @@ I specialize in building modern, responsive, and high-performance web applicatio
 
 ---
 
-## 🚀 Skills & Technologies
-
-### 💻 Languages & Frameworks
+## Skills & Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
-
-### 🎨 Styling
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Flowbite](https://img.shields.io/badge/Flowbite-38B2AC?style=flat&logo=flowbite&logoColor=white)
 
 ---
 
-## 🌱 Interests
-
-Outside of coding, I’m passionate about:
-
-- 💻 **Programming & Development** – Building and refining projects
-- 🧠 **Mathematics & Problem Solving** – Applying logic to real-world challenges
-- 📖 **Urdu Poetry & Literature** – Especially on Rekhta
-- 📈 **Stocks & Trading** – Exploring the financial world
-- 🎓 **Educational Content** – Inspired by channels like *3Blue1Brown*, *Veritasium*, and *MIT OpenCourseWare*
-
----
 
 ## 📬 Let's Connect
 
