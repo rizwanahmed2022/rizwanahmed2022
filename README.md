@@ -8,6 +8,9 @@ I specialize in building modern, responsive, and high-performance web applicatio
 🎓 Currently pursuing a **Bachelor's in Information Technology** at the **University of Balochistan**. I'm in my **6th semester**, diving deeper into full-stack development and hands-on learning through projects.
 
 ---
+   **Live Projects**
+🌐 Live Demo: https://myweatherapp.vercel.app
+
 
 ## Skills & Technologies
 
